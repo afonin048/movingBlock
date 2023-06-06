@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.block{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    position: relative;
+    left: 200px;
+    top: 200px;
+    transition: 0.5s;
+}
